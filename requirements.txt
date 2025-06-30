@@ -1,0 +1,4 @@
+redis
+pika
+beautifulsoup4
+requests
